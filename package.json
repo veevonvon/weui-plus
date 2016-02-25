@@ -1,0 +1,28 @@
+{
+  "name": "weui-plus",
+  "version": "0.0.1",
+  "description": "weui\u001b[H\u001b[H\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[C\u001b[C\u001b[C\u001b[\u001b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veevonvon/weui-plus.git"
+  },
+  "keywords": [
+    "weui",
+    "ui",
+    "weixin",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[F"
+  ],
+  "author": "veevonvon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veevonvon/weui-plus/issues"
+  },
+  "homepage": "https://github.com/veevonvon/weui-plus#readme",
+  "dependencies": {
+    "weui": "^0.3.0"
+  }
+}
